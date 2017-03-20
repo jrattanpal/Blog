@@ -1,0 +1,3 @@
+[submodule "Blog-GoogleMapsSample"]
+	path = Blog-GoogleMapsSample
+	url = https://github.com/jrattanpal/Blog-GoogleMapsSample.git
